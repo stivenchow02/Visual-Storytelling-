@@ -1,0 +1,49 @@
+I have this story called one more scroll
+I am using this for my game project with twinery (sugarcube format)
+The story is about daily life choices where the player get to choose whether to just scroll or being productive throughout the day, the game starts with an introduction scene
+then proceed with the start for the game where the player wake up in the morning, and then choose whether to just snooze the alarm or turn it off
+Then if the player turns it off, there will be choices whether to 
+get out of the bed or just scroll on the bed
+
+I want to make it into three different ending, one will be a good ending where it ends to a productive day, second is the average ending where the player still feels guilty but actually do something productive, and the third is the looping one and ends up in bad ending
+
+this one, i wanna make the good ending first
+
+so here's the example of the starting scene
+Start (Scene 1)
+
+7:00 AM
+You slowly open your eyes
+Your alarm is ringing
+Take your phone
+Still half-asleep, you reach for you phone on the bedside table.
+
+[[Grab it]]
+
+Next Scene
+Alarm Choice (Scene 2)
+
+7:01AM
+The screen lights up in your hand.
+Your alarm is still ringing.
+What do you do?
+
+[[Turn off the alarm]]
+[[Snooze the alarm]]
+Next Scene (User pick turn off the alarm)
+Turn off alarm (Scene 3)
+7.02AM
+You turn off the alarm
+The room becomes quiet
+You do not have any important task to do for the day
+It feels comfortable to just stay on the bed
+Feeling lazy at the same time
+What do you do?
+[[Start Scrolling]]
+[[Get out of the bed]]
+Next Scene (The user click get out of the bed)
+Scene 4 
+I want to continue this scene
+and give me several scene for the story but this time i want it to be the good ending first
+but also in every scene give me some possibility for other scene (just the name, you don't actually have to give me the actual scene for the bad ending)
+
