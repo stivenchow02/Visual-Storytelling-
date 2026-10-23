@@ -1,3 +1,6 @@
+THIS IS THE LINK FOR GPT
+https://chatgpt.com/share/6adac80d-1720-83ee-9038-99b98a1596c0
+
 I have this story called one more scroll
 I am using this for my game project with twinery (sugarcube format)
 The story is about daily life choices where the player get to choose whether to just scroll or being productive throughout the day, the game starts with an introduction scene
